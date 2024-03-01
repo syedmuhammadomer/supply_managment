@@ -1,0 +1,5 @@
+ali|book|alibaba|1|5|14.0|70.0| 
+Omer|pencil|Amazon|2|24|1.0|24.0| 
+Hassan|imac|Wallmart|1|1|2000.0|2000.0| 
+Manager|Stationary|amazon|1|50|2.0|100.0| 
+Manager|mac|Amazon|1|1|1500.0|1500.0| 
